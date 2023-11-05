@@ -1,0 +1,5 @@
+*.avi
+*.csv
+*.tif
+*.tiff
+/data
